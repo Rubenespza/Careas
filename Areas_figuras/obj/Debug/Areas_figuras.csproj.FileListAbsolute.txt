@@ -1,0 +1,9 @@
+C:\Users\Usuario\source\repos\Areas_figuras\Areas_figuras\bin\Debug\Areas_figuras.exe.config
+C:\Users\Usuario\source\repos\Areas_figuras\Areas_figuras\bin\Debug\Areas_figuras.exe
+C:\Users\Usuario\source\repos\Areas_figuras\Areas_figuras\bin\Debug\Areas_figuras.pdb
+C:\Users\Usuario\source\repos\Areas_figuras\Areas_figuras\obj\Debug\Areas_figuras.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Areas_figuras\Areas_figuras\obj\Debug\Areas_figuras.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Areas_figuras\Areas_figuras\obj\Debug\Areas_figuras.exe
+C:\Users\Usuario\source\repos\Areas_figuras\Areas_figuras\obj\Debug\Areas_figuras.pdb
+C:\Users\Usuario\source\repos\Areas_figuras\Areas_figuras\obj\Debug\Areas_figuras.Form1.resources
+C:\Users\Usuario\source\repos\Areas_figuras\Areas_figuras\obj\Debug\Areas_figuras.csproj.GenerateResource.cache
